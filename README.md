@@ -1,6 +1,6 @@
 ![MasterHead](https://kidscodejeunesse.org/data/blog/2020/04-28/CodingCamp_Blog_Banner_v1.0.png)
 <h1 align="center">Hello 👋, I'm Sourav Kumar Parida</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">Welcome! </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b3663675205363f1c943728685fbfc21f9a83934&rid=giphy.gif&ct=g">
 
