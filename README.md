@@ -20,5 +20,6 @@
 
 <p><img align="" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav-parida&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sourav-parida" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sourav-parida&theme=blueberry&show_icons=true&locale=en&layout=compact" alt="sourav-parida" /></p>
+<p>                                  </p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-parida&theme=blueberry&show_icons=true&locale=en&layout=compact" alt="sourav-parida" /></p>
 
