@@ -1,4 +1,4 @@
-![MasterHead](https://kidscodejeunesse.org/data/blog/2020/04-28/CodingCamp_Blog_Banner_v1.0.png)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hello 👋, I'm Sourav Kumar Parida</h1>
 <h3 align="center">Welcome! </h3>
 
