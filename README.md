@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-parida&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-parida" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://sourav-parida.github.io/](https://sourav-parida.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sourav-parida.github.io/)
 
 - 📫 How to reach me **souravparida170@gmail.com**
 
